@@ -1,0 +1,2 @@
+# tgqlFileUpload
+typeGraphQL file upload
